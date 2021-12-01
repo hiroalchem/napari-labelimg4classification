@@ -27,6 +27,7 @@ Thanks to napari, you can freely merge channels and turn them on and off.
 Label classes can be added, and can be removed by typing the same name as an already added class.
 ![](https://github.com/hiroalchem/napari-labelimg4classification/blob/master/docs/color_and_label.gif)
 
+
 It will automatically save the labels.csv file with the image path and label, and the class.txt file with the class of the label.
 ![](https://github.com/hiroalchem/napari-labelimg4classification/blob/master/docs/class_and_labels.png)
 
