@@ -19,20 +19,20 @@ First, click on the Choose directory button to open the folder selection window,
  images you want to label and annotate.   
 It will automatically list and display the images of tif, png, jpg, and bmp formats.
 If you want to view the channels of a multi-channel image separately, check the split channels checkbox.
-![](https://github.com/hiroalchem/napari-labelimg4classification/blob/main/docs/open.gif)
+![](https://github.com/hiroalchem/napari-labelimg4classification/raw/main/docs/open.gif)
 
 Initially, all channels will be opened in grayscale, but the pseudo-color and contrast adjustments you specified will be
  carried over when you open the next image.   
 Thanks to napari, you can freely merge channels and turn them on and off.   
 Label classes can be added, and can be removed by typing the same name as an already added class.
-![](https://github.com/hiroalchem/napari-labelimg4classification/blob/main/docs/color_and_label.gif)
+![](https://github.com/hiroalchem/napari-labelimg4classification/raw/main/docs/color_and_label.gif)
 
 
 It will automatically save the labels.csv file with the image path and label, and the class.txt file with the class of the label.
-![](https://github.com/hiroalchem/napari-labelimg4classification/blob/main/docs/class_and_labels.png)
+![](https://github.com/hiroalchem/napari-labelimg4classification/raw/main/docs/class_and_labels.png)
 
 If labels.csv and class.txt are already in the folder, they will be loaded and reflected automatically.
-![](https://github.com/hiroalchem/napari-labelimg4classification/blob/main/docs/reopen.gif)
+![](https://github.com/hiroalchem/napari-labelimg4classification/raw/main/docs/reopen.gif)
 
 ## Installation
 
